@@ -100,12 +100,3 @@ Thus the different digital IC’s are studied and the truth table for different 
 
 
 
-
-
-
-
-**RTL**
-
-**Result:**
-
-
